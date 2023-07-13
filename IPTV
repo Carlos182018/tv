@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="flussonicmediaserver_v22.04"
+#EXTINF:-1 tvg-id="RBSURUG" tvg-name="GLOBO RBS TV URUGUAIANA FHD" tvg-logo="http://dstr.ddns.net:80/images/f1b109127f3987e1244c8457fe663604.png" group-title="CANAIS",GLOBO RBS TV URUGUAIANA FHD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/304592
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
 http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/70
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD H265²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title"CANAIS"PREMIERE CLUBES FHD H265²
