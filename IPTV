@@ -2,6 +2,596 @@
 #EXT-X-SESSION-DATA:DATA-ID="flussonicmediaserver_v22.04"
 #EXTINF:-1 tvg-id="RBSURUG" tvg-name="GLOBO RBS TV URUGUAIANA FHD" tvg-logo="http://dstr.ddns.net:80/images/f1b109127f3987e1244c8457fe663604.png" group-title="CANAIS",GLOBO RBS TV URUGUAIANA FHD
 http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/304592
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SCC (SBT)" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="CANAIS",SCC (SBT)
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/276874
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD H265" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="CANAIS | RECORD",RECORD RS HD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/2118
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD H265" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS",BAND RS HD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/25665
+#EXTINF:-1 tvg-id="Vazio.br" tvg-name="UFC TV 01" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="CANAIS",UFC TV 01
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/289465
+#EXTINF:-1 tvg-id="Vazio.br" tvg-name="UFC TV 02" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="CANAIS",UFC TV 02
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/291092
+#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC TV 03" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="CANAIS",UFC TV 03
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/313225
+#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC TV 04" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="CANAIS",UFC TV 04
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/313226
+#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC TV 05" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="CANAIS",UFC TV 05
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/313227
+#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC TV 06" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="CANAIS",UFC TV 06
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/313228
+#EXTINF:-1 tvg-id="" tvg-name="Furacão live" tvg-logo="https://play-lh.googleusercontent.com/EVYBp9Ji_3cc7-ELVjIh-RIh_-bshwIpW1UWIxZUhbhUlJZ8vvkadP66TDYMltH8qtc" group-title="CANAIS",Furacão live
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/270372
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV FHD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/66
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234837
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234838
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/301
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234839
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/2129
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234840
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="CANAIS | SPORTV",SPORTV 2 FHD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/68
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="CANAIS | SPORTV",SPORTV 2 FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234829
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="CANAIS | SPORTV",SPORTV 2 FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234830
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD " tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="CANAIS | SPORTV",SPORTV 2 HD 
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/302
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="CANAIS | SPORTV",SPORTV 2 HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234831
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="CANAIS | SPORTV",SPORTV 2 SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/2130
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="CANAIS | SPORTV",SPORTV 2 SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234832
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/69
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234833
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234834
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/303
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234835
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/229
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234836
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="ABUDABI SPORTS 1 HD" tvg-logo="http://www.rochagalaxia.live/logos/abudabisport250.png" group-title="CANAIS",ABUDABI SPORTS 1 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/42088
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="ABUDABI SPORTS 2 HD" tvg-logo="http://www.rochagalaxia.live/logos/abudabisport250.png" group-title="CANAIS",ABUDABI SPORTS 2 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/42089
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="ABUDABI SPORTS 3 HD" tvg-logo="http://www.rochagalaxia.live/logos/abudabisport250.png" group-title="CANAIS",ABUDABI SPORTS 3 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/42090
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="ABUDABI SPORTS 5HD" tvg-logo="http://www.rochagalaxia.live/logos/abudabisport250.png" group-title="CANAIS",ABUDABI SPORTS 5HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/42092
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/bandsport250.png" group-title="CANAIS",BAND SPORTS FHD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/37
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/bandsport250.png" group-title="CANAIS",BAND SPORTS FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234890
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD²" tvg-logo="http://www.rochagalaxia.live/logos/bandsport250.png" group-title="CANAIS",BAND SPORTS FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234891
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://www.rochagalaxia.live/logos/bandsport250.png" group-title="CANAIS",BAND SPORTS HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/321
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://www.rochagalaxia.live/logos/bandsport250.png" group-title="CANAIS",BAND SPORTS SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/220
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD²" tvg-logo="http://www.rochagalaxia.live/logos/bandsport250.png" group-title="CANAIS",BAND SPORTS SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234892
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAMPEONATO CARIOCA 2" tvg-logo="http://www.rochagalaxia.live/logos/cariocao250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CARIOCA 2
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/102440
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAZÉ TV 3" tvg-logo="https://rochagalaxia.live/logos/cazetv.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAZÉ TV 3
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/102442
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAZÉ TV 1" tvg-logo="https://rochagalaxia.live/logos/cazetv.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAZÉ TV 1
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/102439
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAMPEONATO CARIOCA HD 2" tvg-logo="http://www.rochagalaxia.live/logos/cariocao250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CARIOCA HD 2
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/102441
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAZÉ TV 2" tvg-logo="https://rochagalaxia.live/logos/cazetv.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAZÉ TV 2
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/102443
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA HD 4" tvg-logo="http://www.rochagalaxia.live/logos/cariocao250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CARIOCA HD 4
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/113503
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAMPEONATO CARIOCA SD" tvg-logo="http://www.rochagalaxia.live/logos/cariocao250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CARIOCA SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/113502
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA SD 4" tvg-logo="http://www.rochagalaxia.live/logos/cariocao250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CARIOCA SD 4
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/113504
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 1 HD₁" tvg-logo="http://rochagalaxia.live/logos/campeonatomineiro250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Mineiro 1 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110707
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 1 SD₁" tvg-logo="http://rochagalaxia.live/logos/campeonatomineiro250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Mineiro 1 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110708
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 2 HD₁" tvg-logo="http://rochagalaxia.live/logos/campeonatomineiro250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Mineiro 2 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110709
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 2 SD₁" tvg-logo="http://rochagalaxia.live/logos/campeonatomineiro250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Mineiro 2 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110710
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 3 HD₁" tvg-logo="http://rochagalaxia.live/logos/campeonatomineiro250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Mineiro 3 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110711
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 3 SD₁" tvg-logo="http://rochagalaxia.live/logos/campeonatomineiro250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Mineiro 3 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110712
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 4 HD₁" tvg-logo="http://rochagalaxia.live/logos/campeonatomineiro250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Mineiro 4 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110713
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 4 SD₁" tvg-logo="http://rochagalaxia.live/logos/campeonatomineiro250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Mineiro 4 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110714
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 5 HD₁" tvg-logo="http://rochagalaxia.live/logos/campeonatomineiro250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Mineiro 5 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110715
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 5 SD₁" tvg-logo="http://rochagalaxia.live/logos/campeonatomineiro250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Mineiro 5 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110716
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAMPEONATO PARAIBANO HD" tvg-logo="http://www.rochagalaxia.live/logos/campeonato-paraibano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARAIBANO HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/162817
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAMPEONATO PARAIBANO SD" tvg-logo="http://www.rochagalaxia.live/logos/campeonato-paraibano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARAIBANO SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/162818
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAMPEONATO PARANAENSE" tvg-logo="http://www.rochagalaxia.live/logos/campeonatoparanaense250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234270
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAMPEONATO PARANAENSE 2" tvg-logo="http://www.rochagalaxia.live/logos/campeonatoparanaense250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 2
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234271
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Campeonato Sergipano 1 HD₁ - 24H Ondemand" tvg-logo="http://rochagalaxia.live/logos/sergipano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Sergipano 1 HD₁ - 24H Ondemand
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110212
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Campeonato Sergipano 1 SD₁ - 24H Ondemand" tvg-logo="http://rochagalaxia.live/logos/sergipano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Sergipano 1 SD₁ - 24H Ondemand
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110213
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Campeonato Sergipano 2 HD₁" tvg-logo="http://rochagalaxia.live/logos/sergipano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Sergipano 2 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110214
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Campeonato Sergipano 2 SD₁" tvg-logo="http://rochagalaxia.live/logos/sergipano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Sergipano 2 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110215
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Campeonato Sergipano 3 HD₁" tvg-logo="http://rochagalaxia.live/logos/sergipano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Sergipano 3 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110216
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Campeonato Sergipano 3 SD₁" tvg-logo="http://rochagalaxia.live/logos/sergipano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Sergipano 3 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110217
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Campeonato Sergipano 4 HD₁" tvg-logo="http://rochagalaxia.live/logos/sergipano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Sergipano 4 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110218
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Campeonato Sergipano 4 SD₁" tvg-logo="http://rochagalaxia.live/logos/sergipano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Sergipano 4 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110219
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Campeonato Sergipano 5 HD₁" tvg-logo="http://rochagalaxia.live/logos/sergipano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Sergipano 5 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110220
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Campeonato Sergipano 5 SD₁" tvg-logo="http://rochagalaxia.live/logos/sergipano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Campeonato Sergipano 5 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110221
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CANAL OFF FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/canaloff250.png" group-title="CANAIS",CANAL OFF FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234910
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CANAL OFF FHD²" tvg-logo="http://www.rochagalaxia.live/logos/canaloff250.png" group-title="CANAIS",CANAL OFF FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234911
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CANAL OFF HD²" tvg-logo="http://www.rochagalaxia.live/logos/canaloff250.png" group-title="CANAIS",CANAL OFF HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234912
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CANAL OFF SD²" tvg-logo="http://www.rochagalaxia.live/logos/canaloff250.png" group-title="CANAIS",CANAL OFF SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234913
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CANAL WOOHOO FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/canalwoohoo250.png" group-title="CANAIS",CANAL WOOHOO FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234918
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CANAL WOOHOO FHD²" tvg-logo="http://www.rochagalaxia.live/logos/canalwoohoo250.png" group-title="CANAIS",CANAL WOOHOO FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234919
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CANAL WOOHOO HD²" tvg-logo="http://www.rochagalaxia.live/logos/canalwoohoo250.png" group-title="CANAIS",CANAL WOOHOO HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234920
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CANAL WOOHOO SD²" tvg-logo="http://www.rochagalaxia.live/logos/canalwoohoo250.png" group-title="CANAIS",CANAL WOOHOO SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234921
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS",COMBATE FHD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/39
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS",COMBATE FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234935
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD²" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS",COMBATE FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234936
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS",COMBATE HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/340
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD²" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS",COMBATE HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234937
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS",COMBATE SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/202
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD²" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS",COMBATE SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234938
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="PARAMOUNT 03" tvg-logo="https://i.pinimg.com/originals/0f/a9/0b/0fa90bd5c402250ed2157e09543cf971.png" group-title="CANAIS | PARAMOUNT PLUS",PARAMOUNT 03
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/25548
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="PARAMOUNT 02" tvg-logo="https://i.pinimg.com/originals/0f/a9/0b/0fa90bd5c402250ed2157e09543cf971.png" group-title="CANAIS | PARAMOUNT PLUS",PARAMOUNT 02
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/30173
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="PARAMOUNT 01" tvg-logo="https://i.pinimg.com/originals/0f/a9/0b/0fa90bd5c402250ed2157e09543cf971.png" group-title="CANAIS | PARAMOUNT PLUS",PARAMOUNT 01
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/30177
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="PARAMOUNT 04" tvg-logo="https://i.pinimg.com/originals/0f/a9/0b/0fa90bd5c402250ed2157e09543cf971.png" group-title="CANAIS | PARAMOUNT PLUS",PARAMOUNT 04
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/30176
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Conmebol 2 SD" tvg-logo="http://www.rochagalaxia.live/logos/comebol250.png" group-title="CANAIS | PARAMOUNT PLUS",Conmebol 2 SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/30178
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CONMEBOL 4 FHD" tvg-logo="http://www.rochagalaxia.live/logos/comebol250.png" group-title="CANAIS | PARAMOUNT PLUS",CONMEBOL 4 FHD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/2193
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CONMEBOL TV 1 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/comebol250.png" group-title="CANAIS | PARAMOUNT PLUS",CONMEBOL TV 1 FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234943
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Catarinense " tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Catarinense 
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101589
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Catarinense  HD" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Catarinense  HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/18964
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Catarinense²" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Catarinense²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101591
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Catarinense 2 HD" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Catarinense 2 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101592
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Catarinense 3" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Catarinense 3
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101593
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Catarinense 3 HD" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Catarinense 3 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101594
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Catarinense 4" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Catarinense 4
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101595
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Catarinense 4 HD" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Catarinense 4 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101588
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Catarinense 5" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Catarinense 5
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/113506
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Catarinense 5 HD" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Catarinense 5 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/113505
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Catarinense HD" tvg-logo="http://www.rochagalaxia.live/logos/copacatarinense2501.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Catarinense HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101590
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Nordeste" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Nordeste
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101583
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Nordeste 2" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Nordeste 2
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101584
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Nordeste 2 HD" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Nordeste 2 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101585
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Nordeste 3" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Nordeste 3
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101586
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Nordeste 3 HD" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Nordeste 3 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101582
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Nordeste 4" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Nordeste 4
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/113508
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Nordeste 4 HD" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Nordeste 4 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/113507
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Nordeste 5" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Nordeste 5
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/113510
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Nordeste 5 HD" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Nordeste 5 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/113509
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Copa Nordeste HD" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Copa Nordeste HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/101587
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="DAZN 1 HD₁" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 1 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110700
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="DAZN 1 SD₁" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 1 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110701
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="DAZN 2 HD₁" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 2 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110702
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="DAZN 2 SD₁" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 2 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110703
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="DAZN 3 Alternativo FHD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 3 Alternativo FHD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/42080
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="DAZN 3 Alternativo HD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 3 Alternativo HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/42079
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="DAZN 3 Alternativo SD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 3 Alternativo SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/42078
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="DAZN 3 SD₁" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN 3 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110705
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="PRIME VIDEO 03" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIME VIDEO 03
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110706
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="PRIME VIDEO 04" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIME VIDEO 04
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110699
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Dazn FHD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",Dazn FHD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/2046
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Dazn HD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",Dazn HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/528
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Dazn SD" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",Dazn SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/2045
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DUBAI SPORTS 1 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/abudabisport250.png" group-title="CANAIS",DUBAI SPORTS 1 FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234975
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DUBAI SPORTS 2 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/abudabisport250.png" group-title="CANAIS",DUBAI SPORTS 2 FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234976
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 01 HD₁ - 24H Ondemand" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 01 HD₁ - 24H Ondemand
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110756
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 01 SD₁ - 24H Ondemand" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 01 SD₁ - 24H Ondemand
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110757
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 02 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 02 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110758
+#EXTINF:-1 tvg-id="canal24horas.br" tvg-name="Eleven Sports 02 SD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 02 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110759
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 03 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 03 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110760
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 03 SD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 03 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110761
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 04 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 04 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110762
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 04 SD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 04 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110763
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 05 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 05 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110764
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 05 SD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 05 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110765
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 06 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 06 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110766
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 06 SD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 06 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110767
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 07 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 07 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110768
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 07 SD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 07 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110769
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 08 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 08 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110770
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 08 SD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 08 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110771
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 09 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 09 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110772
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Eleven Sports 09 SD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 09 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110773
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10 HD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 10 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110774
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10 SD₁" tvg-logo="http://rochagalaxia.live/logos/elevensports250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Eleven Sports 10 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110775
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 FHD H265" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 FHD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/144
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 FHD H265²" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234849
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 FHD²" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234850
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 HD" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/348
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 HD²" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234851
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 SD" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/2051
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 SD²" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234852
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 FHD H265" tvg-logo="https://logodix.com/logo/1706918.png" group-title="CANAIS | ESPN",ESPN 3 FHD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/42
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 FHD H265²" tvg-logo="https://logodix.com/logo/1706918.png" group-title="CANAIS | ESPN",ESPN 3 FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234853
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 FHD²" tvg-logo="https://logodix.com/logo/1706918.png" group-title="CANAIS | ESPN",ESPN 3 FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234854
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 HD" tvg-logo="https://logodix.com/logo/1706918.png" group-title="CANAIS | ESPN",ESPN 3 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/273
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 HD²" tvg-logo="https://logodix.com/logo/1706918.png" group-title="CANAIS | ESPN",ESPN 3 HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234855
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 SD" tvg-logo="https://logodix.com/logo/1706918.png" group-title="CANAIS | ESPN",ESPN 3 SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/2052
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 SD²" tvg-logo="https://logodix.com/logo/1706918.png" group-title="CANAIS | ESPN",ESPN 3 SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234856
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 FHD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/48
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234857
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234858
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 HD" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/319
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 HD²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234859
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 SD" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/194
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 SD²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234860
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA FHD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/88
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234845
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD²" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234846
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/274
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD²" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234847
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/2054
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD²" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234848
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD²" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/313125
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/313126
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN FHD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/1013
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/2053
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD²" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234843
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN SD²" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/313128
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="EUROCHANNEL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/eurochanel250.png" group-title="CANAIS",EUROCHANNEL FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/235218
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="EUROCHANNEL HD²" tvg-logo="http://www.rochagalaxia.live/logos/eurochanel250.png" group-title="CANAIS",EUROCHANNEL HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/235219
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="EUROCHANNEL HD²" tvg-logo="http://www.rochagalaxia.live/logos/eurochanel250.png" group-title="CANAIS",EUROCHANNEL HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/235220
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/fishtv250.png" group-title="CANAIS",FISH TV FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234988
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD²" tvg-logo="http://www.rochagalaxia.live/logos/fishtv250.png" group-title="CANAIS",FISH TV FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234989
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD²" tvg-logo="http://www.rochagalaxia.live/logos/fishtv250.png" group-title="CANAIS",FISH TV HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234990
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD²" tvg-logo="http://www.rochagalaxia.live/logos/fishtv250.png" group-title="CANAIS",FISH TV SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234991
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="FlaTV 1 HD₁ - 24H Ondemand" tvg-logo="http://rochagalaxia.live/logos/flatv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",FlaTV 1 HD₁ - 24H Ondemand
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110202
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="FlaTV 1 SD₁ - 24H Ondemand" tvg-logo="http://rochagalaxia.live/logos/flatv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",FlaTV 1 SD₁ - 24H Ondemand
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110203
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="FlaTV 2 HD₁" tvg-logo="http://rochagalaxia.live/logos/flatv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",FlaTV 2 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110204
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="FlaTV 2 SD₁" tvg-logo="http://rochagalaxia.live/logos/flatv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",FlaTV 2 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110205
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV 3 HD₁" tvg-logo="http://rochagalaxia.live/logos/flatv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",FlaTV 3 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110206
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV 3 SD₁" tvg-logo="http://rochagalaxia.live/logos/flatv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",FlaTV 3 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110207
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV 4 HD₁" tvg-logo="http://rochagalaxia.live/logos/flatv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",FlaTV 4 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110208
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV 4 SD₁" tvg-logo="http://rochagalaxia.live/logos/flatv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",FlaTV 4 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110209
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV 5 HD₁" tvg-logo="http://rochagalaxia.live/logos/flatv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",FlaTV 5 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110210
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV 5 SD₁" tvg-logo="http://rochagalaxia.live/logos/flatv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",FlaTV 5 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110211
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="F1 TV PRO 02" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS",F1 TV PRO 02
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/109399
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="F1 TV PRO 01" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS",F1 TV PRO 01
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/109398
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/foxsport2250.png" group-title="CANAIS",FOX SPORTS 2 FHD H265
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/49
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/foxsport2250.png" group-title="CANAIS",FOX SPORTS 2 FHD H265²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234996
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/foxsport2250.png" group-title="CANAIS",FOX SPORTS 2 FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234997
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://www.rochagalaxia.live/logos/foxsport2250.png" group-title="CANAIS",FOX SPORTS 2 HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/31
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="http://www.rochagalaxia.live/logos/foxsport2250.png" group-title="CANAIS",FOX SPORTS 2 HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234998
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://www.rochagalaxia.live/logos/foxsport2250.png" group-title="CANAIS",FOX SPORTS 2 SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/2059
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="http://www.rochagalaxia.live/logos/foxsport2250.png" group-title="CANAIS",FOX SPORTS 2 SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/234999
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX" tvg-logo="https://www.rochagalaxia.live/logos/hbomax250.png" group-title="CANAIS",HBO MAX
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205469
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 01 ALTERNATIVO" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="CANAIS",HBO MAX 01 ALTERNATIVO
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205841
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 02 ALTERNATIVO" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="CANAIS",HBO MAX 02 ALTERNATIVO
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205842
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 03 ALTERNATIVO" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="CANAIS",HBO MAX 03 ALTERNATIVO
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205843
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 04 ALTERNATIVO" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="CANAIS",HBO MAX 04 ALTERNATIVO
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205844
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 05 ALTERNATIVO" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="CANAIS",HBO MAX 05 ALTERNATIVO
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205845
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 2" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="CANAIS",HBO MAX 2
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205470
+#EXTINF:-1 tvg-id="HBOMax.br" tvg-name="HBO MAX 3" tvg-logo="https://rochagalaxia.live/logos/hbomax250.png" group-title="CANAIS",HBO MAX 3
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205471
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="LIGA FUTSAL HD" tvg-logo="http://www.rochagalaxia.live/logos/ligadefutsal250.png" group-title="CANAIS",LIGA FUTSAL HD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/109435
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="LIGA FUTSAL SD" tvg-logo="http://www.rochagalaxia.live/logos/ligadefutsal250.png" group-title="CANAIS",LIGA FUTSAL SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/109436
+#EXTINF:-1 tvg-id="Rai.br" tvg-name="RAI FHD²" tvg-logo="http://www.rochagalaxia.live/logos/raiitalia250.png" group-title="CANAIS",RAI FHD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/235212
+#EXTINF:-1 tvg-id="Rai.br" tvg-name="RAI HD²" tvg-logo="http://www.rochagalaxia.live/logos/raiitalia250.png" group-title="CANAIS",RAI HD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/235083
+#EXTINF:-1 tvg-id="Rai.br" tvg-name="RAI SD²" tvg-logo="http://www.rochagalaxia.live/logos/raiitalia250.png" group-title="CANAIS",RAI SD²
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/235084
+#EXTINF:-1 tvg-id="Like.br" tvg-name="RED BULL TV FHD₁" tvg-logo="http://rochagalaxia.live/logos/redebulltv250.png" group-title="CANAIS",RED BULL TV FHD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110778
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="STAR+" tvg-logo="https://www.rochagalaxia.live/logos/star+250.png" group-title="CANAIS",STAR+
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/184558
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="STAR+ 1" tvg-logo="https://www.rochagalaxia.live/logos/star+250.png" group-title="CANAIS",STAR+ 1
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205475
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="STAR+ 2" tvg-logo="https://www.rochagalaxia.live/logos/star+250.png" group-title="CANAIS",STAR+ 2
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205472
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="STAR+ 3" tvg-logo="https://www.rochagalaxia.live/logos/star+250.png" group-title="CANAIS",STAR+ 3
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205473
+#EXTINF:-1 tvg-id="Starplus.br" tvg-name="STAR+ 4" tvg-logo="https://www.rochagalaxia.live/logos/star+250.png" group-title="CANAIS",STAR+ 4
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/205474
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TVN Sports 01 HD₁ - 24H Ondemand" tvg-logo="http://rochagalaxia.live/logos/tvn250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",TVN Sports 01 HD₁ - 24H Ondemand
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110222
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TVN Sports 02 HD₁" tvg-logo="http://rochagalaxia.live/logos/tvn250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",TVN Sports 02 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110224
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TVN Sports 03 HD₁" tvg-logo="http://rochagalaxia.live/logos/tvn250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",TVN Sports 03 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110226
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TVN Sports 04 HD₁" tvg-logo="http://rochagalaxia.live/logos/tvn250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",TVN Sports 04 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110228
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TVN Sports 05 HD₁" tvg-logo="http://rochagalaxia.live/logos/tvn250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",TVN Sports 05 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110230
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TVN Sports 06 HD₁" tvg-logo="http://rochagalaxia.live/logos/tvn250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",TVN Sports 06 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110232
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TVN Sports 07 HD₁" tvg-logo="http://rochagalaxia.live/logos/tvn250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",TVN Sports 07 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110234
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TVN Sports 08 HD₁" tvg-logo="http://rochagalaxia.live/logos/tvn250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",TVN Sports 08 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110236
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TVN Sports 09 HD₁" tvg-logo="http://rochagalaxia.live/logos/tvn250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",TVN Sports 09 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110238
+#EXTINF:-1 tvg-id="Like.br" tvg-name="TVN Sports 10 HD₁" tvg-logo="http://rochagalaxia.live/logos/tvn250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",TVN Sports 10 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110240
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Vasco TV 1 HD₁" tvg-logo="http://rochagalaxia.live/logos/vascotv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Vasco TV 1 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110242
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Vasco TV 1 SD₁" tvg-logo="http://rochagalaxia.live/logos/vascotv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Vasco TV 1 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110243
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Vasco TV 2 HD₁" tvg-logo="http://rochagalaxia.live/logos/vascotv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Vasco TV 2 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110244
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Vasco TV 2 SD₁" tvg-logo="http://rochagalaxia.live/logos/vascotv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Vasco TV 2 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110245
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Vasco TV 3 HD₁" tvg-logo="http://rochagalaxia.live/logos/vascotv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Vasco TV 3 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110246
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Vasco TV 3 SD₁" tvg-logo="http://rochagalaxia.live/logos/vascotv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Vasco TV 3 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110247
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Vasco TV 4 HD₁" tvg-logo="http://rochagalaxia.live/logos/vascotv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Vasco TV 4 HD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110248
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="Vasco TV 4 SD₁" tvg-logo="http://rochagalaxia.live/logos/vascotv250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",Vasco TV 4 SD₁
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/110249
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN SD" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN SD
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/1014
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAMPEONATO PARANAENSE 3" tvg-logo="http://www.rochagalaxia.live/logos/campeonatoparanaense250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 3
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/285630
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAMPEONATO PARANAENSE 4" tvg-logo="http://www.rochagalaxia.live/logos/campeonatoparanaense250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 4
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/285631
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAMPEONATO PARANAENSE 5" tvg-logo="http://www.rochagalaxia.live/logos/campeonatoparanaense250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 5
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/285632
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CAMPEONATO PARANAENSE 6" tvg-logo="http://www.rochagalaxia.live/logos/campeonatoparanaense250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PARANAENSE 6
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/285633
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="CAMPEONATO CEARENSE " tvg-logo="http://www.rochagalaxia.live/logos/campeonatocearense250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CEARENSE 
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/285634
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="CAMPEONATO CEARENSE 2" tvg-logo="http://www.rochagalaxia.live/logos/campeonatocearense250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CEARENSE 2
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/285635
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="CAMPEONATO CEARENSE 3" tvg-logo="http://www.rochagalaxia.live/logos/campeonatocearense250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CEARENSE 3
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/285636
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 8" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPA NORDESTE 8
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286307
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 7" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPA NORDESTE 7
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286306
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 6" tvg-logo="http://www.rochagalaxia.live/logos/copanordeste250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPA NORDESTE 6
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286305
+#EXTINF:-1 tvg-id="" tvg-name="DAZN4" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN4
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286301
+#EXTINF:-1 tvg-id="" tvg-name="DAZN5" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN5
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286300
+#EXTINF:-1 tvg-id="" tvg-name="DAZN6" tvg-logo="http://rochagalaxia.live/logos/dazn250.png" group-title="CANAIS | DAZN |AMAZON PRIME",DAZN6
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286299
+#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 08" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS",F1 TV PRO 08
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286328
+#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 07" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS",F1 TV PRO 07
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286327
+#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 06" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS",F1 TV PRO 06
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286326
+#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 05" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS",F1 TV PRO 05
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286325
+#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 04" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS",F1 TV PRO 04
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286324
+#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 03" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS",F1 TV PRO 03
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286323
+#EXTINF:-1 tvg-id="F1TV.br" tvg-name="F1 TV PRO 02" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS",F1 TV PRO 02
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286322
+#EXTINF:-1 tvg-id="" tvg-name="F1 TV PRO 03" tvg-logo="http://www.rochagalaxia.live/logos/formula1250.png" group-title="CANAIS",F1 TV PRO 03
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286321
+#EXTINF:-1 tvg-id="CanalVoleiBrasil.br" tvg-name="CANAL DO VOLEI 03" tvg-logo="http://www.rochagalaxia.live/logos/canaldevolei250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CANAL DO VOLEI 03
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286320
+#EXTINF:-1 tvg-id="CanalVoleiBrasil.br" tvg-name="CANAL DO VOLEI 02" tvg-logo="http://www.rochagalaxia.live/logos/canaldevolei250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CANAL DO VOLEI 02
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286319
+#EXTINF:-1 tvg-id="CanalVoleiBrasil.br" tvg-name="CANAL DO VOLEI 01" tvg-logo="http://www.rochagalaxia.live/logos/canaldevolei250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CANAL DO VOLEI 01
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286318
+#EXTINF:-1 tvg-id="LNFTV.br" tvg-name="LNF 03" tvg-logo="http://www.rochagalaxia.live/logos/lnf250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",LNF 03
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286317
+#EXTINF:-1 tvg-id="LNFTV.br" tvg-name="LNF 02" tvg-logo="http://www.rochagalaxia.live/logos/lnf250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",LNF 02
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286316
+#EXTINF:-1 tvg-id="LNFTV.br" tvg-name="LNF 01" tvg-logo="http://www.rochagalaxia.live/logos/lnf250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",LNF 01
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286315
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="CRUZEIRO 2022" tvg-logo="http://www.rochagalaxia.live/logos/cruzeiro250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CRUZEIRO 2022
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286312
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="BAIANO 2022" tvg-logo="http://www.rochagalaxia.live/logos/campeonatobaiano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",BAIANO 2022
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286310
+#EXTINF:-1 tvg-id="Estaduais.br" tvg-name="SERGIPAO 2022" tvg-logo="http://www.rochagalaxia.live/logos/campeonatosergipano250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",SERGIPAO 2022
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286311
+#EXTINF:-1 tvg-id="Vazio.br" tvg-name="TV JOCKEY" tvg-logo="http://www.rochagalaxia.live/logos/tvjocky250.png" group-title="CANAIS",TV JOCKEY
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/286185
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1" tvg-logo="http://www.rochagalaxia.live/logos/nosso-futebol250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 1
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/291521
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2" tvg-logo="http://www.rochagalaxia.live/logos/nosso-futebol250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 2
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/291522
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 3" tvg-logo="http://www.rochagalaxia.live/logos/nosso-futebol250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 3
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/291523
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 4" tvg-logo="http://www.rochagalaxia.live/logos/nosso-futebol250.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",NOSSO FUTEBOL 4
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/291524
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 01 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS",NBA LEAGUE PASS 01 (PPV)
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/293378
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 02 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS",NBA LEAGUE PASS 02 (PPV)
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/293379
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 03 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS",NBA LEAGUE PASS 03 (PPV)
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/293380
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 04 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS",NBA LEAGUE PASS 04 (PPV)
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/293381
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 05 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS",NBA LEAGUE PASS 05 (PPV)
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/293382
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 06 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS",NBA LEAGUE PASS 06 (PPV)
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/293383
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 07 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS",NBA LEAGUE PASS 07 (PPV)
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/293384
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 08 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS",NBA LEAGUE PASS 08 (PPV)
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/293385
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 09 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS",NBA LEAGUE PASS 09 (PPV)
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/293386
+#EXTINF:-1 tvg-id="NBALeaguePass.br" tvg-name="NBA LEAGUE PASS 10 (PPV)" tvg-logo="http://www.rochagalaxia.live/logos/nba-league-pass250.png" group-title="CANAIS",NBA LEAGUE PASS 10 (PPV)
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/293387
+#EXTINF:-1 tvg-id="Vazio.br" tvg-name="ONE FOOTBALL" tvg-logo="" group-title="CANAIS",ONE FOOTBALL
+http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/304204
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
 http://cnxmain.qualcom.life:80/TioQuarto/7na2w9gy/70
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD H265²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title"CANAIS"PREMIERE CLUBES FHD H265²
